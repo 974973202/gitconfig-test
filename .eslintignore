@@ -1,0 +1,10 @@
+dist
+docs-dist
+public
+node_modules
+test
+docs
+es
+
+# gulpfile.js
+# styles-import-plugin.js
