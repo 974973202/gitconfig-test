@@ -1,1 +1,1 @@
-# gitconfig-test
+# 代码检查和提交规范检查
